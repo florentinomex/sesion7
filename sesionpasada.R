@@ -87,3 +87,6 @@ tail(data.url); str(data.url)
 dim(data.url)
 class(data.url)
 w <- rnorm(20)
+getwd()
+
+#actualizacion
